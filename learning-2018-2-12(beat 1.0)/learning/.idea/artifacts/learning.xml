@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learning">
+    <output-path>$USER_HOME$/Desktop/learn</output-path>
+    <root id="archive" name="learning.war" />
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-api/learning-api.iml" filepath="$PROJECT_DIR$/learning-api/learning-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-gen/learning-gen.iml" filepath="$PROJECT_DIR$/learning-gen/learning-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-service/learning-service.iml" filepath="$PROJECT_DIR$/learning-service/learning-service.iml" />
+    </modules>
+  </component>
+</project>
